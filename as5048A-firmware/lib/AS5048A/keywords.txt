@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For PID Library
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+AS5048  KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getRotation	KEYWORD2
+getState	KEYWORD2
+printState	KEYWORD2
+getGain	KEYWORD2
+getErrors	KEYWORD2
+setZeroPosition	KEYWORD2
+error	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

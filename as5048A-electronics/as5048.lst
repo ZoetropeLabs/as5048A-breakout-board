@@ -1,0 +1,44 @@
+eeschema (2013-may-18)-stable  >> Creation date: Thu 25 Sep 2014 11:57:15 BST
+#Cmp ( order = Reference )
+| C3         100nF       
+| C4         10uF        
+| D1         LED_POWER   
+| D2         LED         
+| D3         LED         
+| D4         LED         
+| IC1        ATTINY44-S  
+| IC2        AS5048A     
+| P1         CONN_7      
+| R1         68          
+| R2         10k         
+| R3         10k         
+| R4         200         
+| R5         200         
+| R6         68          
+| R7         68          
+| R8         68          
+| SW1        SWITCH_INV_MSM
+#End Cmp
+
+#Cmp ( order = Value )
+| 100nF        C3        
+| 10uF         C4        
+| LED_POWER    D1        
+| LED          D2        
+| LED          D3        
+| LED          D4        
+| AS5048A      IC2       
+| ATTINY44-S   IC1       
+| CONN_7       P1        
+| 68           R1        
+| 68           R6        
+| 68           R7        
+| 68           R8        
+| 200          R4        
+| 200          R5        
+| 10k          R2        
+| 10k          R3        
+| SWITCH_INV_MSM SW1       
+#End Cmp
+
+#End List

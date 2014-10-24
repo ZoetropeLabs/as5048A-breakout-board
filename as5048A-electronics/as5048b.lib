@@ -1,0 +1,15 @@
+EESchema-LIBRARY Version 2.3  Date: Fri 06 Jun 2014 16:12:04 BST
+#encoding utf-8
+#
+# AS5048B
+#
+DEF AS5048B U 0 40 Y Y 1 F N
+F0 "U" 0 0 60 H V C CNN
+F1 "AS5048B" 0 0 60 H V C CNN
+F2 "~" 0 0 60 H V C CNN
+F3 "~" 0 0 60 H V C CNN
+DRAW
+ENDDRAW
+ENDDEF
+#
+#End Library

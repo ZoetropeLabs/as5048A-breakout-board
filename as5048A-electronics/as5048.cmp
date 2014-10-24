@@ -1,0 +1,136 @@
+Cmp-Mod V01 Created by CvPcb (2013-may-18)-stable date = Tue 07 Oct 2014 16:56:29 BST
+
+BeginCmp
+TimeStamp = /5391F54F;
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5391F568;
+Reference = C2;
+ValeurCmp = 10uF;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5391E6D1;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5391E6E0;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5391E6EF;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5391E6C2;
+Reference = D4;
+ValeurCmp = LED_POWER;
+IdModule  = LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5391E82A;
+Reference = IC1;
+ValeurCmp = ATTINY44-S;
+IdModule  = SO14N;
+EndCmp
+
+BeginCmp
+TimeStamp = /5391E6B3;
+Reference = IC2;
+ValeurCmp = AS5048A;
+IdModule  = tssop-14;
+EndCmp
+
+BeginCmp
+TimeStamp = /543401F4;
+Reference = P1;
+ValeurCmp = CONN_4X2;
+IdModule  = pin_array_4x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /539717EB;
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5391ECC2;
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53972A1D;
+Reference = R3;
+ValeurCmp = 200;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53972A2C;
+Reference = R4;
+ValeurCmp = 200;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5391F3D2;
+Reference = R5;
+ValeurCmp = 68;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5391F3EE;
+Reference = R6;
+ValeurCmp = 68;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5391F3F4;
+Reference = R7;
+ValeurCmp = 68;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5391F33B;
+Reference = R8;
+ValeurCmp = 68;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54340C88;
+Reference = R9;
+ValeurCmp = JUMP_3V3;
+IdModule  = SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53996F86;
+Reference = SW1;
+ValeurCmp = SWITCH_INV_MSM;
+IdModule  = SIL-3;
+EndCmp
+
+EndListe
